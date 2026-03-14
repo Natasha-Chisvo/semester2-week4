@@ -8,6 +8,8 @@ For each array entry, 0,1,2, compute the factorial of the array index.
 `factorial(0) = 1`
 `factorial(n) = n x (n-1) x (n-2) x ... x 2 x 1  for n>0`
 
+
+
 Hint: note the recurrence relationship for factorial for the most efficient solution.
 
 Question: Factorial becomes large very quickly. How many terms can be computed if the value is stored as an int?
